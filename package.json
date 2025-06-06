@@ -1,0 +1,24 @@
+{
+  "name": "camel-core",
+  "version": "1.1.0",
+  "description": "Engine for Minecraft Java Edition launchers",
+  "main": "index.js",
+  "keywords": [
+    "minecraft",
+    "core",
+    "launcher",
+    "engine",
+    "java",
+    "edition"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "itemlauncherteam",
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "request": "^2.88.2",
+    "uuid": "^8.3.0"
+  }
+}
